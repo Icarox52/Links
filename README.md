@@ -30,7 +30,6 @@ Um hub pessoal moderno com todos os meus links importantes, construído com tecn
 2. Ou clone localmente:
 ```bash
 git clone https://github.com/Icarox52/Links.git
-cd Links
 ```
 
 ## 📌 Contato
