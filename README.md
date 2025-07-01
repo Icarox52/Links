@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Site%20Online-brightgreen?style=for-the-badge)](https://icarox52.github.io/Links/)
 [![GitHub stars](https://img.shields.io/github/stars/Icarox52/Links?style=for-the-badge)](https://github.com/Icarox52/Links/stargazers)
 
-<a href="https://icarox52.github.io/Links/"><img src="https://placehold.co/600x400?text=Preview+do+Site"/></a>
+<a href="https://icarox52.github.io/Links/"><img src="./"/></a>
 
 Um hub pessoal moderno com todos os meus links importantes, construído com tecnologias web simples mas poderosas.
 
